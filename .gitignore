@@ -1,0 +1,7 @@
+/target
+*.swp
+*.swo
+*~
+.DS_Store
+# Large generated fixtures live outside the repo; only the small zoo files are committed.
+/fixtures/big_*.mat
